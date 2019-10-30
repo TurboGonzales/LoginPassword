@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="TextColor">#816C7377</color>
+    <color name="LoginTextColor">#FFEE58</color>
+    <color name="PasswordTextColor">#FFEE58</color>
+    <color name="BackgrndSecColour">#34008577</color>
+    <color name="colorAccent"></color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginPassword</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Вход</string>
+    <string name="authorize_succesfull">Access is allowed</string>
+</resources>
